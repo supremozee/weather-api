@@ -5,7 +5,7 @@ import bodyParser from 'body-parser';
 import router from './routes/auth';
 import cors from 'cors'
 const app = express();
-const PORT = 3006;
+const PORT = 'https://precious-bonbon-a624d7.netlify.app/';
 
 app.use(bodyParser.json());
 app.use('/api/auth', router);
