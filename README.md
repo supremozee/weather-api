@@ -15,6 +15,8 @@ Before you begin, ensure you have the following installed on your machine:
    ```bash
    git clone https://github.com/supremozee/weather-api.git
    cd weather-api
+## Run 
+npm Install
 
 ## Run the server
 npm start
